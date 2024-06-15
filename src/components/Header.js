@@ -40,8 +40,8 @@ const Header = () => {
 
                 <div className='box_content'>
                     <div className='tabs'>
-                        <di><a href='#'><span><img src={Bike}/></span>Deliver</a></di>
-                        <di><a href='#' className='btn_2_home'><span><img src={Sacola}/></span>Pick Up</a></di>
+                        <div><a href='#'><span><img src={Bike}/></span>Deliver</a></div>
+                        <div><a href='#' className='btn_2_home'><span><img src={Sacola}/></span>Pick Up</a></div>
                     </div>
 
                     <div className='input_data'>
