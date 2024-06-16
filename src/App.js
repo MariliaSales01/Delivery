@@ -1,6 +1,7 @@
 import './App.css';
 import Deals from './components/Deals';
 import Header from './components/Header';
+import Information from './components/Information';
 import Menu from './components/Menu';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div >
       <Header/>
       <Deals/>
+      <Information/>
       <Menu/>
     </div>
   );
