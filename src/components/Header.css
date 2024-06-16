@@ -56,7 +56,7 @@
 }
 
 .place img{
-    width: 12px;
+    width: 15px;
     height: 15px;
 }
 
@@ -124,7 +124,7 @@
 }
 
 .content_home{
-    width: 100%;
+    width: 100%; 
     display: flex;
     flex-direction: column;
     gap: 20px 0;
