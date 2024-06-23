@@ -60,17 +60,17 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 180px;
-    height: 120px;
+    width: 70%;
+    height: 25%;
     background-color: rgb(201, 207, 36);
-    border-radius: 0 40px 0 0;
+    border-radius: 0 30px 0 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .discount h5{
-    font-size: 50px;
+    font-size: 2.8rem;
     font-weight: 700;
     color: white;
 }
@@ -80,3 +80,15 @@
     margin-bottom: 5%;
 }
 
+@media screen and (max-width: 780px){
+    .deals{
+        display: block;
+    }
+    .discount{
+        width: 80%;
+    }
+    .boxes_deals{
+        margin-bottom: 15%;
+    }
+   
+}

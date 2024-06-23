@@ -14,7 +14,7 @@ const Information = () => {
             <div className='boxes_work'>
                 <div><img src={Map}/></div>
                 <h4>Selecione Localização</h4>
-                <p>Confira centenas de menus para escolher sua comida favorita</p>
+                
             </div>
         </div>
 
@@ -22,7 +22,7 @@ const Information = () => {
             <div className='boxes_work'>
                 <div><img src={Sino}/></div>
                 <h4>Escolha o pedido</h4>
-                <p>Confira centenas de menus para escolher sua comida favorita</p>
+                
             </div>
         </div>
 
@@ -30,7 +30,7 @@ const Information = () => {
             <div className='boxes_work'>
                 <div><img src={Dl}/></div>
                 <h4>Pagar conta</h4>
-                <p>Confira centenas de menus para escolher sua comida favorita</p>
+                
             </div>
         </div>
 
@@ -38,7 +38,7 @@ const Information = () => {
             <div className='boxes_work'>
                 <div><img src={rosquinha}/></div>
                 <h4>Refeições Felizes</h4>
-                <p>Confira centenas de menus para escolher sua comida favorita</p>
+                
             </div>
         </div>
     </div>

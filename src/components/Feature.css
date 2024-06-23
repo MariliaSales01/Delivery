@@ -94,3 +94,9 @@
         translate: 0 0;
     }
 }
+
+@media screen and (max-width: 780px){
+    .feature_products{
+        display: none;
+    }
+}

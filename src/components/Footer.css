@@ -29,3 +29,16 @@
     border-radius: 4px;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 780px){
+    .banner_deals h3{
+        font-size: 1.8rem;
+    }
+    .banner_deals{
+        margin-top: 20%;
+    }
+    .banner_deals div a{
+        padding: 14px 20px;
+        font-size: 0.8rem;
+    }
+}

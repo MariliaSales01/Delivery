@@ -45,7 +45,7 @@ const Header = () => {
                     </div>
 
                     <div className='input_data'>
-                        <input className='search_banner' placeholder='Buscar alimentos' type='search'/>
+                        <input className='search_banner' placeholder='Pesquisar' type='search'/>
                         <div><a href='#'>Buscar</a></div>
                     </div>
                 </div>
